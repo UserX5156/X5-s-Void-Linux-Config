@@ -1,3 +1,3 @@
 ```
-i3 status-rust
+i3 i3status-rust 
 ```
